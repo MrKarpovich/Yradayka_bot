@@ -2,7 +2,7 @@ import telebot
 from telebot import types
 import random
 
-bot = telebot.TeleBot("-")
+bot = telebot.TeleBot("-)
 print(f"🤖 Бот запустился, проверяйте телегу!")
 
 # Словарь для уровней и количества стаканчиков
